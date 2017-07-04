@@ -16,5 +16,9 @@ emails:
     name: 'Sagi Shnaidman'
   - mail: 'myoung@redhat.com'
     name: 'Matt Young'
+  - mail: 'achernet@redhat.com'
+    name: 'Ariel Chernetsky'
+  - mail: 'nlevinki@redhat.com'
+    name: 'Nathan Levinkind'
 template: template.html
 
